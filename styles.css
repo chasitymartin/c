@@ -1,12 +1,22 @@
-h1 {
-    color:blue;
+body {
+    background:blue;
 }
 img {
     width: 400px;
     height: 300px;
 }
-p {
+h2 {
     color:red;
 }
-p { font-family: 'Anton', sans-serif;
+h2 { 
+    font-family: 'Indie Flower', cursive;
+}
+p {
+    font-family: 'Abril Fatface', cursive;
+}
+h1{
+    font-family: 'Francois One', sans-serif;
+}
+ul{ 
+    font-family: 'Abril Fatface', cursive;
 }
